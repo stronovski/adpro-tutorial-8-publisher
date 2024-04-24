@@ -5,3 +5,7 @@ Karena p.publish_event dipanggil sebanyak 5 kali, maka terdapat 5 data yang diki
 
 ### The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber program, what does it mean?
 Kedua URL tersebut digunakan untuk mengkoneksikan ke broker AMQP dengan menggunakan kredensial dan detail connection yang sama. Dengan hal tersebut, message yang dipublish oleh publisher dapat digunakan oleh subscriber dengan menggunakan broker instance yang sama
+
+### Put the screen of your running RabbitMQ here
+![alt text](image.png)
+
