@@ -1,0 +1,1 @@
+C:\Users\Asus\OneDrive\Desktop\Sasha\Kuliah\Sem\ 4\adpro\ after\ uts\adpro-tutorial-8-publisher\publisher\target\debug\publisher.exe: C:\Users\Asus\OneDrive\Desktop\Sasha\Kuliah\Sem\ 4\adpro\ after\ uts\adpro-tutorial-8-publisher\publisher\src\main.rs
